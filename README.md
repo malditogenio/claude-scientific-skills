@@ -1,106 +1,112 @@
 # Claude Growth Marketing Skills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![Skills](https://img.shields.io/badge/Skills-117+-brightgreen.svg)](#whats-included)
+[![Skills](https://img.shields.io/badge/Skills-120+-brightgreen.svg)](#qué-incluye)
 
-A comprehensive collection of **117+ ready-to-use growth marketing skills** for Claude. Transform Claude into your AI marketing assistant capable of executing complex multi-step marketing workflows across analytics, automation, advertising, and data-driven optimization.
+Una colección completa de **120+ skills de growth marketing listos para usar** con Claude. Transforma a Claude en tu asistente de marketing con IA, capaz de ejecutar flujos de trabajo complejos de marketing en múltiples pasos, abarcando analítica, automatización, publicidad y optimización basada en datos.
 
-These skills enable Claude to seamlessly work with specialized marketing platforms, analytics tools, and data systems across multiple marketing domains:
-- 📊 **Analytics & Tracking** - Google Analytics, Mixpanel, Amplitude, Heap, PostHog, behavior analysis, conversion tracking
-- 📧 **Marketing Automation** - HubSpot, Klaviyo, Mailchimp, Braze, Iterable, email campaigns, customer journeys
-- 📱 **Advertising Platforms** - Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, programmatic advertising, ROAS optimization
-- 🛒 **E-commerce & Payments** - Shopify, Stripe, WooCommerce, subscription management, revenue optimization
-- 🗄️ **CDP & Data Infrastructure** - Segment, mParticle, Snowflake, BigQuery, data pipelines, reverse ETL
-- 💼 **CRM & Sales** - Salesforce, Pipedrive, Apollo.io, lead scoring, sales intelligence
-- 🔬 **Analysis & Experimentation** - A/B testing, cohort analysis, attribution modeling, churn prediction, LTV optimization
-- ✍️ **Content & Strategy** - Copywriting, SEO, content strategy, conversion rate optimization, growth experimentation
-- 📱 **Social Media** - Social listening, scheduling, community management, influencer marketing
-- 🐍 **Python Analytics** - pandas, scikit-learn, Prophet forecasting, sentiment analysis, marketing ML
+Estos skills permiten a Claude trabajar de manera fluida con plataformas de marketing especializadas, herramientas de analítica y sistemas de datos en múltiples dominios:
 
-**Transform Claude Code into your AI Growth Marketing Expert!**
+- 📊 **Analítica y Tracking** - Google Analytics, Mixpanel, Amplitude, Heap, PostHog, análisis de comportamiento, tracking de conversiones
+- 📧 **Automatización de Marketing** - HubSpot, Klaviyo, Mailchimp, Braze, Iterable, campañas de email, customer journeys
+- 📱 **Plataformas de Publicidad** - Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, publicidad programática, optimización de ROAS
+- 🛒 **E-commerce y Pagos** - Shopify, Stripe, WooCommerce, gestión de suscripciones, optimización de ingresos
+- 🗄️ **CDP e Infraestructura de Datos** - Segment, mParticle, Snowflake, BigQuery, pipelines de datos, reverse ETL
+- 💼 **CRM y Ventas** - Salesforce, Pipedrive, Apollo.io, lead scoring, inteligencia de ventas
+- 🔬 **Análisis y Experimentación** - A/B testing, análisis de cohortes, modelado de atribución, predicción de churn, optimización de LTV
+- ✍️ **Copywriting y Estrategia** - Copywriting persuasivo (Halbert, Sugarman, Edwards), SEO, estrategia de contenido, CRO, mass movements
+- 📱 **Redes Sociales** - Social listening, programación, gestión de comunidades, marketing de influencers
+- 🐍 **Analítica con Python** - pandas, scikit-learn, Prophet forecasting, análisis de sentimiento, ML para marketing
 
-> ⭐ **If you find this repository useful**, please consider giving it a star! It helps others discover these tools and encourages us to continue maintaining and expanding this collection.
+**¡Transforma Claude Code en tu Experto en Growth Marketing con IA!**
 
----
-
-## 📦 What's Included
-
-This repository provides **117+ growth marketing skills** organized into the following categories:
-
-- **15 Python Analytics Packages** - pandas, plotly, scikit-learn, Prophet, lifetimes CLV, and more
-- **13 Analytics Platforms** - Google Analytics, Mixpanel, Amplitude, Heap, PostHog, Looker, Tableau
-- **14 Marketing Automation Tools** - HubSpot, Mailchimp, Klaviyo, Braze, Intercom, and more
-- **12 Advertising Platforms** - Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, programmatic DSP
-- **10 E-commerce & Payments** - Shopify, Stripe, WooCommerce, subscription management
-- **12 CDP & Data Tools** - Segment, mParticle, Snowflake, BigQuery, Fivetran, Hightouch
-- **9 CRM & Sales Tools** - Salesforce, Pipedrive, Apollo.io, Gong, ZoomInfo, Clearbit
-- **12 Analysis Methods** - A/B testing, cohort analysis, attribution, churn prediction, LTV
-- **10 Communication & Strategy** - Copywriting, SEO, CRO, product-led growth, referral programs
-- **7 Social Media Tools** - Buffer, Hootsuite, Sprout Social, social listening
-- **4 Document Skills** - PDF, Excel, PowerPoint, CSV data processing
-
-Each skill includes:
-- ✅ Comprehensive documentation (`SKILL.md`)
-- ✅ Practical code examples
-- ✅ Use cases and best practices
-- ✅ Integration guides
-- ✅ Reference materials
+> ⭐ **Si encuentras útil este repositorio**, considera darle una estrella. Ayuda a otros a descubrir estas herramientas y nos motiva a seguir manteniendo y expandiendo esta colección.
 
 ---
 
-## 📋 Table of Contents
+## 📦 Qué Incluye
 
-- [What's Included](#whats-included)
-- [Why Use This?](#why-use-this)
-- [Getting Started](#getting-started)
-  - [Claude Code](#claude-code-recommended)
+Este repositorio proporciona **120+ skills de growth marketing** organizados en las siguientes categorías:
+
+- **15 Paquetes de Analítica Python** - pandas, plotly, scikit-learn, Prophet, lifetimes CLV, y más
+- **13 Plataformas de Analítica** - Google Analytics, Mixpanel, Amplitude, Heap, PostHog, Looker, Tableau
+- **14 Herramientas de Automatización** - HubSpot, Mailchimp, Klaviyo, Braze, Intercom, y más
+- **12 Plataformas de Publicidad** - Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, DSP programático
+- **10 E-commerce y Pagos** - Shopify, Stripe, WooCommerce, gestión de suscripciones
+- **12 Herramientas CDP y Datos** - Segment, mParticle, Snowflake, BigQuery, Fivetran, Hightouch
+- **9 Herramientas CRM y Ventas** - Salesforce, Pipedrive, Apollo.io, Gong, ZoomInfo, Clearbit
+- **12 Métodos de Análisis** - A/B testing, análisis de cohortes, atribución, predicción de churn, LTV
+- **12 Comunicación y Estrategia** - Copywriting avanzado, SEO, CRO, product-led growth, programas de referidos
+- **7 Herramientas de Redes Sociales** - Buffer, Hootsuite, Sprout Social, social listening
+- **4 Skills de Documentos** - Procesamiento de PDF, Excel, PowerPoint, datos CSV
+
+Cada skill incluye:
+- ✅ Documentación completa (`SKILL.md`)
+- ✅ Ejemplos de código prácticos
+- ✅ Casos de uso y mejores prácticas
+- ✅ Guías de integración
+- ✅ Materiales de referencia
+
+---
+
+## 📋 Tabla de Contenidos
+
+- [Qué Incluye](#qué-incluye)
+- [¿Por Qué Usar Esto?](#por-qué-usar-esto)
+- [Primeros Pasos](#primeros-pasos)
+  - [Claude Code](#claude-code-recomendado)
   - [Cursor IDE](#cursor-ide)
-  - [Any MCP Client](#any-mcp-client)
-- [Prerequisites](#prerequisites)
-- [Quick Examples](#quick-examples)
-- [Use Cases](#use-cases)
-- [Available Skills](#available-skills)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+  - [Cualquier Cliente MCP](#cualquier-cliente-mcp)
+- [Requisitos Previos](#requisitos-previos)
+- [Ejemplos Rápidos](#ejemplos-rápidos)
+- [Casos de Uso](#casos-de-uso)
+- [Skills Disponibles](#skills-disponibles)
+- [Contribuir](#contribuir)
+- [Solución de Problemas](#solución-de-problemas)
+- [Preguntas Frecuentes](#preguntas-frecuentes)
+- [Soporte](#soporte)
+- [Licencia](#licencia)
 
 ---
 
-## 🚀 Why Use This?
+## 🚀 ¿Por Qué Usar Esto?
 
-### ⚡ **Accelerate Your Marketing**
-- **Save Days of Work** - Skip API documentation research and integration setup
-- **Production-Ready Code** - Tested, validated examples following marketing best practices
-- **Multi-Step Workflows** - Execute complex marketing pipelines with a single prompt
+### ⚡ **Acelera Tu Marketing**
+- **Ahorra Días de Trabajo** - Salta la investigación de documentación de APIs y configuración de integraciones
+- **Código Listo para Producción** - Ejemplos probados y validados siguiendo mejores prácticas de marketing
+- **Flujos de Trabajo Multi-Paso** - Ejecuta pipelines de marketing complejos con un solo prompt
 
-### 🎯 **Comprehensive Coverage**
-- **117+ Skills** - Extensive coverage across all major marketing domains
-- **15+ Analytics Platforms** - Direct access to Google Analytics, Mixpanel, Amplitude, and more
-- **12+ Advertising Platforms** - Meta Ads, Google Ads, TikTok Ads, programmatic DSP
+### 🎯 **Cobertura Completa**
+- **120+ Skills** - Cobertura extensiva en todos los dominios principales de marketing
+- **15+ Plataformas de Analítica** - Acceso directo a Google Analytics, Mixpanel, Amplitude, y más
+- **12+ Plataformas de Publicidad** - Meta Ads, Google Ads, TikTok Ads, DSP programático
 
-### 🔧 **Easy Integration**
-- **One-Click Setup** - Install via Claude Code or MCP server
-- **Automatic Discovery** - Claude automatically finds and uses relevant skills
-- **Well Documented** - Each skill includes examples, use cases, and best practices
+### 🔧 **Fácil Integración**
+- **Configuración con Un Clic** - Instala vía Claude Code o servidor MCP
+- **Descubrimiento Automático** - Claude encuentra y usa automáticamente los skills relevantes
+- **Bien Documentado** - Cada skill incluye ejemplos, casos de uso y mejores prácticas
 
-### 🌟 **Data-Driven Marketing**
-- **Advanced Analytics** - Cohort analysis, attribution modeling, predictive models
-- **ML-Powered Insights** - Churn prediction, LTV optimization, customer segmentation
-- **Experimentation Framework** - A/B testing, growth experiments, statistical significance
+### 🌟 **Marketing Basado en Datos**
+- **Analítica Avanzada** - Análisis de cohortes, modelado de atribución, modelos predictivos
+- **Insights con ML** - Predicción de churn, optimización de LTV, segmentación de clientes
+- **Framework de Experimentación** - A/B testing, experimentos de crecimiento, significancia estadística
+
+### ✍️ **Copywriting de Clase Mundial**
+- **Métodos de Maestros** - Gary Halbert, Joseph Sugarman, Jim Edwards integrados
+- **Persuasión Ética** - Metodología de Paul Boag (Click)
+- **Mass Movements** - Los 22 secretos de Russell Brunson (Expert Secrets)
 
 ---
 
-## 🎯 Getting Started
+## 🎯 Primeros Pasos
 
-Choose your preferred platform to get started:
+Elige tu plataforma preferida para comenzar:
 
-### 🖥️ Claude Code (Recommended)
+### 🖥️ Claude Code (Recomendado)
 
-> 📚 **New to Claude Code?** Check out the [Claude Code Quickstart Guide](https://docs.claude.com/en/docs/claude-code/quickstart) to get started.
+> 📚 **¿Nuevo en Claude Code?** Consulta la [Guía de Inicio Rápido de Claude Code](https://docs.claude.com/en/docs/claude-code/quickstart) para comenzar.
 
-**Step 1: Install Claude Code**
+**Paso 1: Instala Claude Code**
 
 **macOS:**
 ```bash
@@ -112,49 +118,49 @@ curl -fsSL https://claude.ai/install.sh | bash
 irm https://claude.ai/install.ps1 | iex
 ```
 
-**Step 2: Register the Marketplace**
+**Paso 2: Registra el Marketplace**
 
 ```bash
 /plugin marketplace add your-org/claude-growth-marketing-skills
 ```
 
-**Step 3: Install Skills**
+**Paso 3: Instala los Skills**
 
-1. Open Claude Code
-2. Select **Browse and install plugins**
-3. Choose **claude-growth-marketing-skills**
-4. Select **growth-marketing-skills**
-5. Click **Install now**
+1. Abre Claude Code
+2. Selecciona **Browse and install plugins**
+3. Elige **claude-growth-marketing-skills**
+4. Selecciona **growth-marketing-skills**
+5. Haz clic en **Install now**
 
-**That's it!** Claude will automatically use the appropriate skills when you describe your marketing tasks. Make sure to keep the skill up to date!
+**¡Eso es todo!** Claude usará automáticamente los skills apropiados cuando describas tus tareas de marketing. ¡Asegúrate de mantener los skills actualizados!
 
 ---
 
 ### ⌨️ Cursor IDE
 
-One-click installation via our hosted MCP server (coming soon).
+Instalación con un clic vía nuestro servidor MCP alojado (próximamente).
 
 ---
 
-### 🔌 Any MCP Client
+### 🔌 Cualquier Cliente MCP
 
-Access all skills via MCP server in any MCP-compatible client (ChatGPT, Google ADK, OpenAI Agent SDK, etc.).
+Accede a todos los skills vía servidor MCP en cualquier cliente compatible con MCP (ChatGPT, Google ADK, OpenAI Agent SDK, etc.).
 
 ---
 
-## ⚙️ Prerequisites
+## ⚙️ Requisitos Previos
 
-- **Python**: 3.9+ (3.12+ recommended for best compatibility)
-- **uv**: Python package manager (required for installing skill dependencies)
-- **Client**: Claude Code, Cursor, or any MCP-compatible client
-- **System**: macOS, Linux, or Windows with WSL2
-- **Dependencies**: Automatically handled by individual skills (check `SKILL.md` files for specific requirements)
+- **Python**: 3.9+ (3.12+ recomendado para mejor compatibilidad)
+- **uv**: Gestor de paquetes Python (requerido para instalar dependencias de skills)
+- **Cliente**: Claude Code, Cursor, o cualquier cliente compatible con MCP
+- **Sistema**: macOS, Linux, o Windows con WSL2
+- **Dependencias**: Manejadas automáticamente por cada skill (revisa los archivos `SKILL.md` para requisitos específicos)
 
-### Installing uv
+### Instalando uv
 
-The skills use `uv` as the package manager for installing Python dependencies. Install it using the instructions for your operating system:
+Los skills usan `uv` como gestor de paquetes para instalar dependencias de Python. Instálalo usando las instrucciones para tu sistema operativo:
 
-**macOS and Linux:**
+**macOS y Linux:**
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
@@ -164,393 +170,442 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-**Alternative (via pip):**
+**Alternativa (vía pip):**
 ```bash
 pip install uv
 ```
 
-After installation, verify it works by running:
+Después de la instalación, verifica que funciona ejecutando:
 ```bash
 uv --version
 ```
 
 ---
 
-## 💡 Quick Examples
+## 💡 Ejemplos Rápidos
 
-Once you've installed the skills, you can ask Claude to execute complex multi-step marketing workflows. Here are some example prompts:
+Una vez que hayas instalado los skills, puedes pedirle a Claude que ejecute flujos de trabajo de marketing complejos en múltiples pasos. Aquí hay algunos prompts de ejemplo:
 
-### 📊 Full-Funnel Analytics Pipeline
-**Goal**: Analyze complete customer journey from acquisition to retention
-
-**Prompt**:
-```
-Use available skills. Pull data from Google Analytics for traffic sources,
-Mixpanel for user behavior events, and Stripe for revenue. Create cohort
-analysis for last 6 months, calculate LTV by acquisition channel, identify
-drop-off points in the funnel, and build a dashboard with key metrics.
-```
-
-**Skills Used**: Google Analytics, Mixpanel, Stripe, Cohort Analysis, LTV Analysis, Funnel Analysis, Plotly Dashboards
-
----
-
-### 🎯 Campaign Performance Optimization
-**Goal**: Optimize ad spend across multiple channels
+### 📊 Pipeline de Analítica Full-Funnel
+**Objetivo**: Analizar el customer journey completo desde adquisición hasta retención
 
 **Prompt**:
 ```
-Use available skills. Pull campaign data from Meta Ads and Google Ads for
-the last 30 days. Analyze ROAS by campaign, audience, and creative. Build
-attribution model to understand cross-channel effects. Identify
-underperforming segments, calculate optimal budget allocation, and create
-recommendations report.
+Usa los skills disponibles. Extrae datos de Google Analytics para fuentes de tráfico,
+Mixpanel para eventos de comportamiento de usuarios, y Stripe para ingresos. Crea un
+análisis de cohortes de los últimos 6 meses, calcula LTV por canal de adquisición,
+identifica puntos de abandono en el funnel, y construye un dashboard con métricas clave.
 ```
 
-**Skills Used**: Meta Ads, Google Ads, Attribution Modeling, statsmodels, Pandas Analytics, Scientific Writing
+**Skills Usados**: Google Analytics, Mixpanel, Stripe, Análisis de Cohortes, Análisis de LTV, Análisis de Funnel, Plotly Dashboards
 
 ---
 
-### 🔮 Churn Prediction & Prevention
-**Goal**: Identify at-risk customers and create retention campaigns
+### 🎯 Optimización de Rendimiento de Campañas
+**Objetivo**: Optimizar el gasto en publicidad en múltiples canales
 
 **Prompt**:
 ```
-Use available skills. Extract customer behavior data from Amplitude,
-purchase history from Shopify, and support tickets from Intercom. Build
-churn prediction model with scikit-learn, segment high-risk customers,
-create personalized retention email flows in Klaviyo, and set up
-automated alerts.
+Usa los skills disponibles. Extrae datos de campañas de Meta Ads y Google Ads de los
+últimos 30 días. Analiza ROAS por campaña, audiencia y creativos. Construye un modelo
+de atribución para entender efectos cross-channel. Identifica segmentos con bajo
+rendimiento, calcula la asignación óptima de presupuesto, y crea un reporte de
+recomendaciones.
 ```
 
-**Skills Used**: Amplitude, Shopify, Intercom, Churn Prediction, Customer Segmentation, Klaviyo, scikit-learn
+**Skills Usados**: Meta Ads, Google Ads, Modelado de Atribución, statsmodels, Pandas Analytics
 
 ---
 
-### 📧 Email Marketing Optimization
-**Goal**: Improve email performance through data-driven optimization
+### 🔮 Predicción y Prevención de Churn
+**Objetivo**: Identificar clientes en riesgo y crear campañas de retención
 
 **Prompt**:
 ```
-Use available skills. Analyze email campaign data from Mailchimp - open
-rates, click rates, conversions by segment and send time. Run sentiment
-analysis on subject lines, identify winning patterns, create A/B test
-plan for next campaigns, and generate optimized subject line variations.
+Usa los skills disponibles. Extrae datos de comportamiento de clientes de Amplitude,
+historial de compras de Shopify, y tickets de soporte de Intercom. Construye un modelo
+de predicción de churn con scikit-learn, segmenta clientes de alto riesgo, crea flujos
+de email de retención personalizados en Klaviyo, y configura alertas automatizadas.
 ```
 
-**Skills Used**: Mailchimp, A/B Testing, NLTK Sentiment, Copywriting, Email Marketing
+**Skills Usados**: Amplitude, Shopify, Intercom, Predicción de Churn, Segmentación de Clientes, Klaviyo, scikit-learn
 
 ---
 
-### 🛒 E-commerce Revenue Optimization
-**Goal**: Increase AOV and conversion rate
+### 📧 Optimización de Email Marketing
+**Objetivo**: Mejorar el rendimiento de emails a través de optimización basada en datos
 
 **Prompt**:
 ```
-Use available skills. Pull transaction data from Shopify, analyze with
-market basket analysis to find product affinities. Calculate price
-elasticity, identify upsell opportunities, create customer segments by
-RFM, and design personalized recommendation strategy. Generate report
-with implementation roadmap.
+Usa los skills disponibles. Analiza datos de campañas de email de Mailchimp - tasas de
+apertura, tasas de clic, conversiones por segmento y hora de envío. Ejecuta análisis
+de sentimiento en líneas de asunto, identifica patrones ganadores, crea un plan de
+A/B test para próximas campañas, y genera variaciones optimizadas de líneas de asunto.
 ```
 
-**Skills Used**: Shopify, Market Basket Analysis, Pricing Optimization, Customer Segmentation, RFM Analysis, Pandas Analytics
+**Skills Usados**: Mailchimp, A/B Testing, NLTK Sentiment, Copywriting, Email Marketing
 
 ---
 
-### 📈 Growth Experimentation Framework
-**Goal**: Set up systematic experimentation process
+### ✍️ Creación de Copy Persuasivo
+**Objetivo**: Escribir copy de ventas que convierta usando técnicas de maestros
 
 **Prompt**:
 ```
-Use available skills. Design A/B testing framework for landing pages
-using statistical best practices. Set up tracking with Google Tag Manager,
-create experiment documentation template, calculate required sample sizes,
-define success metrics, and build automated significance calculator.
+Usa los skills de copywriting. Necesito escribir una carta de ventas para [producto].
+Aplica el método de Gary Halbert para la estructura, usa los 14 axiomas de Sugarman
+para los principios, y las fórmulas de Jim Edwards para titulares y viñetas. Incluye
+un Big Domino Statement de Russell Brunson y anticipa objeciones.
 ```
 
-**Skills Used**: A/B Testing, Google Tag Manager, Growth Experimentation, statsmodels, Conversion Rate Optimization
+**Skills Usados**: Copywriting (Halbert + Sugarman + Edwards), Expert Secrets Mass Movement
 
 ---
 
-### 🔗 Customer Data Platform Setup
-**Goal**: Unify customer data across all touchpoints
+### 🛒 Optimización de Ingresos E-commerce
+**Objetivo**: Aumentar AOV y tasa de conversión
 
 **Prompt**:
 ```
-Use available skills. Design Segment implementation to collect events
-from web and mobile. Set up identity resolution, create data model for
-BigQuery warehouse, configure Hightouch for reverse ETL to ad platforms,
-and document data governance policies.
+Usa los skills disponibles. Extrae datos de transacciones de Shopify, analiza con
+market basket analysis para encontrar afinidades de productos. Calcula elasticidad
+de precio, identifica oportunidades de upsell, crea segmentos de clientes por RFM,
+y diseña una estrategia de recomendaciones personalizadas. Genera reporte con
+roadmap de implementación.
 ```
 
-**Skills Used**: Segment, BigQuery, Hightouch, Customer Segmentation, Data Architecture
+**Skills Usados**: Shopify, Market Basket Analysis, Pricing Optimization, Segmentación de Clientes, Análisis RFM, Pandas Analytics
 
 ---
 
-> 📖 **Want more examples?** Check out [docs/examples.md](docs/examples.md) for comprehensive workflow examples and detailed use cases across all marketing domains.
+### 📈 Framework de Experimentación de Crecimiento
+**Objetivo**: Establecer un proceso sistemático de experimentación
+
+**Prompt**:
+```
+Usa los skills disponibles. Diseña un framework de A/B testing para landing pages
+usando mejores prácticas estadísticas. Configura tracking con Google Tag Manager,
+crea una plantilla de documentación de experimentos, calcula tamaños de muestra
+requeridos, define métricas de éxito, y construye una calculadora automatizada
+de significancia.
+```
+
+**Skills Usados**: A/B Testing, Google Tag Manager, Experimentación de Crecimiento, statsmodels, Optimización de Tasa de Conversión
 
 ---
 
-## 🔬 Use Cases
+### 🔗 Configuración de Customer Data Platform
+**Objetivo**: Unificar datos de clientes en todos los touchpoints
 
-### 📊 Analytics & Insights
-- **Customer Journey Analysis**: Map complete user paths from first touch to conversion
-- **Cohort Analysis**: Track retention and LTV by acquisition cohort
-- **Funnel Optimization**: Identify and fix conversion bottlenecks
-- **Attribution Modeling**: Understand cross-channel marketing impact
-- **Predictive Analytics**: Forecast revenue, churn, and growth trends
+**Prompt**:
+```
+Usa los skills disponibles. Diseña una implementación de Segment para recolectar
+eventos de web y móvil. Configura resolución de identidad, crea un modelo de datos
+para warehouse en BigQuery, configura Hightouch para reverse ETL a plataformas de
+ads, y documenta políticas de gobernanza de datos.
+```
 
-### 📱 Advertising & Acquisition
-- **Campaign Management**: Optimize campaigns across Meta, Google, TikTok, and more
-- **Budget Allocation**: Data-driven spend optimization across channels
-- **Audience Building**: Create lookalikes and custom audiences from CDP data
-- **Creative Analysis**: Identify winning ad creative patterns
-- **ROAS Optimization**: Maximize return on ad spend
-
-### 📧 Marketing Automation
-- **Email Campaigns**: Design and optimize email marketing flows
-- **Customer Journeys**: Build automated lifecycle campaigns
-- **Lead Nurturing**: Create sequences that convert leads to customers
-- **Personalization**: Deliver targeted content based on behavior
-- **Trigger Campaigns**: Set up event-based automated messaging
-
-### 🛒 E-commerce & Revenue
-- **Revenue Analytics**: Track and optimize key commerce metrics
-- **Subscription Management**: Reduce churn and increase expansion
-- **Pricing Strategy**: Test and optimize pricing models
-- **Product Recommendations**: Build data-driven recommendation engines
-- **Customer Support**: Analyze support data for product insights
-
-### 🔬 Experimentation & Testing
-- **A/B Testing**: Design and analyze experiments with statistical rigor
-- **Feature Flags**: Roll out features with controlled experiments
-- **Multivariate Testing**: Test multiple variables simultaneously
-- **Sample Size Calculation**: Ensure experiments have statistical power
-- **Sequential Testing**: Enable early stopping with valid inference
-
-### 🗄️ Data Infrastructure
-- **Event Tracking**: Implement comprehensive tracking plans
-- **Data Warehousing**: Set up modern data stack architecture
-- **Reverse ETL**: Sync audiences to ad platforms and tools
-- **Data Quality**: Monitor and maintain data accuracy
-- **Privacy Compliance**: Implement GDPR/CCPA compliant data practices
+**Skills Usados**: Segment, BigQuery, Hightouch, Segmentación de Clientes, Arquitectura de Datos
 
 ---
 
-## 📚 Available Skills
+## 🔬 Casos de Uso
 
-This repository contains **117+ growth marketing skills** organized across multiple domains. Each skill provides comprehensive documentation, code examples, and best practices.
+### 📊 Analítica e Insights
+- **Análisis de Customer Journey**: Mapea rutas completas de usuarios desde el primer toque hasta la conversión
+- **Análisis de Cohortes**: Trackea retención y LTV por cohorte de adquisición
+- **Optimización de Funnel**: Identifica y corrige cuellos de botella de conversión
+- **Modelado de Atribución**: Entiende el impacto del marketing cross-channel
+- **Analítica Predictiva**: Pronostica ingresos, churn y tendencias de crecimiento
 
-### Skill Categories
+### 📱 Publicidad y Adquisición
+- **Gestión de Campañas**: Optimiza campañas en Meta, Google, TikTok, y más
+- **Asignación de Presupuesto**: Optimización de gasto basada en datos entre canales
+- **Construcción de Audiencias**: Crea lookalikes y audiencias personalizadas desde datos de CDP
+- **Análisis de Creativos**: Identifica patrones ganadores en creativos de ads
+- **Optimización de ROAS**: Maximiza el retorno sobre inversión publicitaria
 
-#### 🐍 **Python Analytics Packages** (15 skills)
-- Data manipulation: pandas, Polars
-- Visualization: Plotly, Streamlit dashboards
+### 📧 Automatización de Marketing
+- **Campañas de Email**: Diseña y optimiza flujos de email marketing
+- **Customer Journeys**: Construye campañas automatizadas de lifecycle
+- **Nurturing de Leads**: Crea secuencias que convierten leads en clientes
+- **Personalización**: Entrega contenido dirigido basado en comportamiento
+- **Campañas por Triggers**: Configura mensajería automatizada basada en eventos
+
+### ✍️ Copywriting y Persuasión
+- **Copy de Ventas**: Cartas de ventas, emails, páginas de aterrizaje usando métodos probados
+- **Titulares que Convierten**: Fórmulas de Halbert, Sugarman y Edwards
+- **Viñetas Persuasivas**: Técnicas de curiosidad y beneficios emocionales
+- **Mass Movements**: Crear seguidores leales con la metodología de Russell Brunson
+- **Persuasión Ética**: Técnicas de Paul Boag que respetan al usuario
+
+### 🛒 E-commerce e Ingresos
+- **Analítica de Ingresos**: Trackea y optimiza métricas clave de comercio
+- **Gestión de Suscripciones**: Reduce churn y aumenta expansión
+- **Estrategia de Precios**: Prueba y optimiza modelos de precios
+- **Recomendaciones de Productos**: Construye motores de recomendación basados en datos
+- **Soporte al Cliente**: Analiza datos de soporte para insights de producto
+
+### 🔬 Experimentación y Testing
+- **A/B Testing**: Diseña y analiza experimentos con rigor estadístico
+- **Feature Flags**: Lanza funcionalidades con experimentos controlados
+- **Testing Multivariante**: Prueba múltiples variables simultáneamente
+- **Cálculo de Tamaño de Muestra**: Asegura que los experimentos tengan poder estadístico
+- **Testing Secuencial**: Habilita parada temprana con inferencia válida
+
+### 🗄️ Infraestructura de Datos
+- **Tracking de Eventos**: Implementa planes de tracking completos
+- **Data Warehousing**: Configura arquitectura de stack de datos moderno
+- **Reverse ETL**: Sincroniza audiencias a plataformas de ads y herramientas
+- **Calidad de Datos**: Monitorea y mantiene la precisión de datos
+- **Cumplimiento de Privacidad**: Implementa prácticas de datos compatibles con GDPR/CCPA
+
+---
+
+## 📚 Skills Disponibles
+
+Este repositorio contiene **120+ skills de growth marketing** organizados en múltiples dominios. Cada skill proporciona documentación completa, ejemplos de código y mejores prácticas.
+
+### Categorías de Skills
+
+#### 🐍 **Paquetes de Analítica Python** (15 skills)
+- Manipulación de datos: pandas, Polars
+- Visualización: Plotly, dashboards Streamlit
 - Machine learning: scikit-learn, statsmodels
 - Forecasting: Prophet, PyMC Bayesian
-- Customer analytics: lifetimes (CLV), NetworkX (viral analysis)
+- Analítica de clientes: lifetimes (CLV), NetworkX (análisis viral)
 - NLP: NLTK sentiment, spaCy
-- Automation: Selenium, BeautifulSoup, requests
-- Data transforms: dbt
+- Automatización: Selenium, BeautifulSoup, requests
+- Transformaciones de datos: dbt
 
-#### 📊 **Analytics Platforms** (13 skills)
-- Product analytics: Mixpanel, Amplitude, Heap, PostHog
-- Web analytics: Google Analytics, Google Search Console
+#### 📊 **Plataformas de Analítica** (13 skills)
+- Analítica de producto: Mixpanel, Amplitude, Heap, PostHog
+- Analítica web: Google Analytics, Google Search Console
 - Session replay: Hotjar, FullStory
-- BI tools: Looker, Tableau, Metabase
-- Tag management: Google Tag Manager
-- Competitive intel: SimilarWeb
+- Herramientas BI: Looker, Tableau, Metabase
+- Gestión de tags: Google Tag Manager
+- Inteligencia competitiva: SimilarWeb
 
-#### 📧 **Marketing Automation** (14 skills)
-- All-in-one: HubSpot, Marketo, Pardot, ActiveCampaign
+#### 📧 **Automatización de Marketing** (14 skills)
+- Todo-en-uno: HubSpot, Marketo, Pardot, ActiveCampaign
 - Email: Mailchimp, SendGrid
-- E-commerce focused: Klaviyo
-- Mobile & cross-channel: Braze, Iterable, Customer.io
-- Conversational: Intercom, Drift
-- Workflow automation: Zapier, Make (Integromat)
+- Enfocado en e-commerce: Klaviyo
+- Móvil y cross-channel: Braze, Iterable, Customer.io
+- Conversacional: Intercom, Drift
+- Automatización de workflows: Zapier, Make (Integromat)
 
-#### 📱 **Advertising Platforms** (12 skills)
+#### 📱 **Plataformas de Publicidad** (12 skills)
 - Social: Meta Ads, TikTok Ads, Twitter Ads, Pinterest Ads, Snapchat Ads
-- Search: Google Ads, Apple Search Ads
-- Professional: LinkedIn Ads
+- Búsqueda: Google Ads, Apple Search Ads
+- Profesional: LinkedIn Ads
 - E-commerce: Amazon Ads
-- Programmatic: DSP platforms, Criteo
-- Native: Taboola, Outbrain
+- Programático: plataformas DSP, Criteo
+- Nativo: Taboola, Outbrain
 
-#### 🛒 **E-commerce & Payments** (10 skills)
-- Platforms: Shopify, WooCommerce, Magento, BigCommerce
-- Payments: Stripe, PayPal, Square
-- Subscriptions: Recharge
-- Support: Gorgias
+#### 🛒 **E-commerce y Pagos** (10 skills)
+- Plataformas: Shopify, WooCommerce, Magento, BigCommerce
+- Pagos: Stripe, PayPal, Square
+- Suscripciones: Recharge
+- Soporte: Gorgias
 - Reviews: Yotpo
 
-#### 🗄️ **CDP & Data Infrastructure** (12 skills)
+#### 🗄️ **CDP e Infraestructura de Datos** (12 skills)
 - CDPs: Segment, mParticle, RudderStack
 - Warehouses: Snowflake, BigQuery, Redshift, Databricks
 - ETL/ELT: Fivetran, Airbyte, Stitch
 - Reverse ETL: Census, Hightouch
 
-#### 💼 **CRM & Sales** (9 skills)
+#### 💼 **CRM y Ventas** (9 skills)
 - CRM: Salesforce, Pipedrive, Close CRM
 - Sales engagement: Apollo.io, Outreach, SalesLoft
 - Conversation intelligence: Gong
 - Enrichment: Clearbit, ZoomInfo
 
-#### 🔬 **Analysis Methods** (12 skills)
-- Experimentation: A/B testing, growth experimentation
-- Customer analytics: Cohort analysis, churn prediction, customer segmentation
-- Revenue: LTV analysis, CAC optimization, pricing optimization
-- Behavior: Funnel analysis, retention analysis, market basket analysis
-- Growth: Viral coefficient, attribution modeling
+#### 🔬 **Métodos de Análisis** (12 skills)
+- Experimentación: A/B testing, experimentación de crecimiento
+- Analítica de clientes: Análisis de cohortes, predicción de churn, segmentación
+- Ingresos: Análisis de LTV, optimización de CAC, optimización de precios
+- Comportamiento: Análisis de funnel, análisis de retención, market basket analysis
+- Crecimiento: Coeficiente viral, modelado de atribución
 
-#### ✍️ **Communication & Strategy** (10 skills)
-- Content: Copywriting, content strategy, SEO optimization
-- Conversion: Landing page optimization, CRO
-- Growth: Growth experimentation, product-led growth, referral programs
-- Channels: Email marketing, influencer marketing
+#### ✍️ **Comunicación y Estrategia** (12 skills)
+- Copywriting: **Método Halbert + 14 Axiomas de Sugarman + 31 Secretos de Jim Edwards** (2,110 líneas)
+- Persuasión Ética: Metodología Click de Paul Boag
+- Mass Movements: Expert Secrets de Russell Brunson (22 secretos)
+- Contenido: Estrategia de contenido, optimización SEO
+- Conversión: Optimización de landing pages, CRO
+- Crecimiento: Experimentación de crecimiento, product-led growth, programas de referidos
+- Canales: Email marketing, marketing de influencers
 
-#### 📱 **Social Media** (7 skills)
-- Management: Buffer, Hootsuite, Sprout Social, Later
-- Monitoring: Brandwatch, Mention
-- Strategy: Social listening
+#### 📱 **Redes Sociales** (7 skills)
+- Gestión: Buffer, Hootsuite, Sprout Social, Later
+- Monitoreo: Brandwatch, Mention
+- Estrategia: Social listening
 
-#### 📄 **Document Skills** (4 skills)
-- PDF processing
-- Excel/XLSX analysis
-- PowerPoint/PPTX creation
-- CSV data handling
-
-> 📖 **For complete details on all skills**, see [docs/growth-marketing-skills.md](docs/growth-marketing-skills.md)
-
-> 💡 **Looking for practical examples?** Check out [docs/examples.md](docs/examples.md) for comprehensive workflow examples across all marketing domains.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to expand and improve this growth marketing skills repository!
-
-### Ways to Contribute
-
-✨ **Add New Skills**
-- Create skills for additional marketing platforms or tools
-- Add integrations for emerging marketing technologies
-
-📚 **Improve Existing Skills**
-- Enhance documentation with more examples and use cases
-- Add new workflows and reference materials
-- Improve code examples and scripts
-- Fix bugs or update outdated information
-
-🐛 **Report Issues**
-- Submit bug reports with detailed reproduction steps
-- Suggest improvements or new features
-
-### How to Contribute
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-skill`)
-3. **Follow** the existing directory structure and documentation patterns
-4. **Ensure** all new skills include comprehensive `SKILL.md` files
-5. **Test** your examples and workflows thoroughly
-6. **Commit** your changes (`git commit -m 'Add amazing skill'`)
-7. **Push** to your branch (`git push origin feature/amazing-skill`)
-8. **Submit** a pull request with a clear description of your changes
-
-### Contribution Guidelines
-
-✅ Maintain consistency with existing skill documentation format
-✅ Include practical, working examples in all contributions
-✅ Ensure all code examples are tested and functional
-✅ Follow marketing best practices in examples and workflows
-✅ Update relevant documentation when adding new capabilities
-✅ Provide clear comments and docstrings in code
-✅ Include references to official documentation
+#### 📄 **Skills de Documentos** (4 skills)
+- Procesamiento de PDF
+- Análisis de Excel/XLSX
+- Creación de PowerPoint/PPTX
+- Manejo de datos CSV
 
 ---
 
-## 🔧 Troubleshooting
+## 🤝 Contribuir
 
-### Common Issues
+¡Damos la bienvenida a contribuciones para expandir y mejorar este repositorio de skills de growth marketing!
 
-**Problem: Skills not loading in Claude Code**
-- Solution: Ensure you've installed the latest version of Claude Code
-- Try reinstalling the plugin
+### Formas de Contribuir
 
-**Problem: Missing Python dependencies**
-- Solution: Check the specific `SKILL.md` file for required packages
-- Install dependencies: `uv pip install package-name`
+✨ **Agregar Nuevos Skills**
+- Crea skills para plataformas o herramientas de marketing adicionales
+- Agrega integraciones para tecnologías de marketing emergentes
 
-**Problem: API rate limits**
-- Solution: Many platforms have rate limits. Review the specific platform documentation
-- Consider implementing caching or batch requests
+📚 **Mejorar Skills Existentes**
+- Mejora la documentación con más ejemplos y casos de uso
+- Agrega nuevos workflows y materiales de referencia
+- Mejora ejemplos de código y scripts
+- Corrige bugs o actualiza información desactualizada
 
-**Problem: Authentication errors**
-- Solution: Some services require API keys. Check the `SKILL.md` for authentication setup
-- Verify your credentials and permissions
+🐛 **Reportar Problemas**
+- Envía reportes de bugs con pasos detallados de reproducción
+- Sugiere mejoras o nuevas funcionalidades
 
-**Problem: Outdated examples**
-- Solution: Report the issue via GitHub Issues
-- Check the official platform documentation for updated syntax
+### Cómo Contribuir
 
----
+1. **Fork** el repositorio
+2. **Crea** una rama de funcionalidad (`git checkout -b feature/skill-increible`)
+3. **Sigue** la estructura de directorios y patrones de documentación existentes
+4. **Asegúrate** de que todos los nuevos skills incluyan archivos `SKILL.md` completos
+5. **Prueba** tus ejemplos y workflows exhaustivamente
+6. **Commit** tus cambios (`git commit -m 'Agregar skill increíble'`)
+7. **Push** a tu rama (`git push origin feature/skill-increible`)
+8. **Envía** un pull request con una descripción clara de tus cambios
 
-## ❓ FAQ
+### Guías de Contribución
 
-### General Questions
-
-**Q: Is this free to use?**
-A: Yes! This project is MIT licensed, allowing free use for any purpose including commercial projects.
-
-**Q: Why are all skills grouped into one plugin?**
-A: Modern growth marketing is inherently cross-functional. Bundling all skills makes it easy to combine analytics, advertising, automation, and data infrastructure in unified workflows.
-
-**Q: Can I use this for commercial projects?**
-A: Absolutely! The MIT License allows both commercial and noncommercial use without restrictions.
-
-**Q: How often is this updated?**
-A: We regularly update skills to reflect the latest versions of platforms and APIs. Major updates are announced in release notes.
-
-### Installation & Setup
-
-**Q: Do I need all the Python packages installed?**
-A: No! Only install the packages you need. Each skill specifies its requirements in its `SKILL.md` file.
-
-**Q: What if a skill doesn't work?**
-A: First check the [Troubleshooting](#troubleshooting) section. If the issue persists, file an issue on GitHub with detailed reproduction steps.
-
-**Q: Do the skills work offline?**
-A: Platform skills require internet access to query APIs. Python package skills work offline once dependencies are installed.
-
-### Contributing
-
-**Q: Can I contribute my own skills?**
-A: Absolutely! We welcome contributions. See the [Contributing](#contributing) section for guidelines and best practices.
-
-**Q: How do I report bugs or suggest features?**
-A: Open an issue on GitHub with a clear description. For bugs, include reproduction steps and expected vs actual behavior.
+✅ Mantén consistencia con el formato de documentación de skills existentes
+✅ Incluye ejemplos prácticos y funcionales en todas las contribuciones
+✅ Asegúrate de que todos los ejemplos de código estén probados y funcionen
+✅ Sigue mejores prácticas de marketing en ejemplos y workflows
+✅ Actualiza la documentación relevante al agregar nuevas capacidades
+✅ Proporciona comentarios claros y docstrings en el código
+✅ Incluye referencias a documentación oficial
 
 ---
 
-## 💬 Support
+## 🔧 Solución de Problemas
 
-Need help? Here's how to get support:
+### Problemas Comunes
 
-- 📖 **Documentation**: Check the relevant `SKILL.md` and `references/` folders
-- 🐛 **Bug Reports**: Open an issue on GitHub
-- 💡 **Feature Requests**: Submit a feature request via GitHub Issues
+**Problema: Los skills no cargan en Claude Code**
+- Solución: Asegúrate de tener instalada la última versión de Claude Code
+- Intenta reinstalar el plugin
+
+**Problema: Faltan dependencias de Python**
+- Solución: Revisa el archivo `SKILL.md` específico para paquetes requeridos
+- Instala dependencias: `uv pip install nombre-paquete`
+
+**Problema: Límites de tasa de API**
+- Solución: Muchas plataformas tienen límites de tasa. Revisa la documentación específica de la plataforma
+- Considera implementar caché o solicitudes por lotes
+
+**Problema: Errores de autenticación**
+- Solución: Algunos servicios requieren API keys. Revisa el `SKILL.md` para configuración de autenticación
+- Verifica tus credenciales y permisos
+
+**Problema: Ejemplos desactualizados**
+- Solución: Reporta el problema vía GitHub Issues
+- Revisa la documentación oficial de la plataforma para sintaxis actualizada
 
 ---
 
-## 📄 License
+## ❓ Preguntas Frecuentes
 
-This project is licensed under the **MIT License**.
+### Preguntas Generales
 
-### Key Points:
-- ✅ **Free for any use** (commercial and noncommercial)
-- ✅ **Open source** - modify, distribute, and use freely
-- ✅ **Permissive** - minimal restrictions on reuse
-- ⚠️ **No warranty** - provided "as is" without warranty of any kind
+**P: ¿Es gratis de usar?**
+R: ¡Sí! Este proyecto tiene licencia MIT, permitiendo uso gratuito para cualquier propósito incluyendo proyectos comerciales.
 
-See [LICENSE.md](LICENSE.md) for full terms.
+**P: ¿Por qué todos los skills están agrupados en un plugin?**
+R: El growth marketing moderno es inherentemente cross-funcional. Agrupar todos los skills facilita combinar analítica, publicidad, automatización e infraestructura de datos en workflows unificados.
+
+**P: ¿Puedo usar esto para proyectos comerciales?**
+R: ¡Absolutamente! La Licencia MIT permite uso tanto comercial como no comercial sin restricciones.
+
+**P: ¿Qué tan seguido se actualiza?**
+R: Actualizamos regularmente los skills para reflejar las últimas versiones de plataformas y APIs. Las actualizaciones mayores se anuncian en las notas de release.
+
+### Instalación y Configuración
+
+**P: ¿Necesito todos los paquetes de Python instalados?**
+R: ¡No! Solo instala los paquetes que necesites. Cada skill especifica sus requisitos en su archivo `SKILL.md`.
+
+**P: ¿Qué pasa si un skill no funciona?**
+R: Primero revisa la sección de [Solución de Problemas](#solución-de-problemas). Si el problema persiste, abre un issue en GitHub con pasos detallados de reproducción.
+
+**P: ¿Los skills funcionan offline?**
+R: Los skills de plataformas requieren acceso a internet para consultar APIs. Los skills de paquetes Python funcionan offline una vez instaladas las dependencias.
+
+### Contribuciones
+
+**P: ¿Puedo contribuir mis propios skills?**
+R: ¡Absolutamente! Damos la bienvenida a contribuciones. Ve la sección de [Contribuir](#contribuir) para guías y mejores prácticas.
+
+**P: ¿Cómo reporto bugs o sugiero funcionalidades?**
+R: Abre un issue en GitHub con una descripción clara. Para bugs, incluye pasos de reproducción y comportamiento esperado vs actual.
+
+---
+
+## 💬 Soporte
+
+¿Necesitas ayuda? Así puedes obtener soporte:
+
+- 📖 **Documentación**: Revisa los archivos `SKILL.md` y carpetas `references/` relevantes
+- 🐛 **Reportes de Bugs**: Abre un issue en GitHub
+- 💡 **Solicitudes de Funcionalidades**: Envía una solicitud de funcionalidad vía GitHub Issues
+
+---
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la **Licencia MIT**.
+
+### Puntos Clave:
+- ✅ **Gratis para cualquier uso** (comercial y no comercial)
+- ✅ **Open source** - modifica, distribuye y usa libremente
+- ✅ **Permisiva** - restricciones mínimas en reutilización
+- ⚠️ **Sin garantía** - proporcionado "tal cual" sin garantía de ningún tipo
+
+Ve [LICENSE.md](LICENSE.md) para términos completos.
+
+---
+
+## 🎓 Skills de Copywriting Destacados
+
+Este repositorio incluye skills de copywriting únicos basados en libros procesados de maestros del copywriting:
+
+### Fuentes Integradas
+
+| Autor | Libro | Contenido |
+|-------|-------|-----------|
+| **Gary Halbert** | The Halbert Copywriting Method Part III | Método de edición en 4 pasadas, 9 técnicas de búsqueda, Eye Relief, Slippery Slide |
+| **Joseph Sugarman** | The Adweek Copywriting Handbook | 14 Axiomas del copywriting, proceso de incubación, elementos del copy |
+| **Jim Edwards** | Copywriting Secrets | 31 secretos prácticos, fórmula PQR2, 10 razones de compra, framework FRED |
+| **Russell Brunson** | Expert Secrets | 22 secretos para crear mass movements, Big Domino, Epiphany Bridge |
+| **Paul Boag** | Click | Persuasión ética, anti-dark patterns, reducción de carga cognitiva |
+
+### Proceso Maestro Integrado
+
+```
+1. INVESTIGACIÓN (Edwards) - PQR2 del avatar, reviews de Amazon
+2. INCUBACIÓN (Sugarman) - Deja que el subconsciente trabaje
+3. COPY DUMP (Halbert) - Escribe sin filtro
+4. ESTRUCTURA (Edwards) - Titulares, viñetas, CTA
+5. EDICIÓN (Halbert) - 4 pasadas con objetivos específicos
+6. PRUEBA (Edwards) - Split test, una variable a la vez
+7. OPTIMIZACIÓN (Sugarman) - Menos palabras, más impacto
+```
+
+---
+
+*Hecho con ❤️ para growth marketers que quieren potenciar su trabajo con IA*
